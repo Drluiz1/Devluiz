@@ -3,8 +3,11 @@
 **`Desenvolvedor Full Stack`**
 
 Olá! Me chamo Luiz Augusto, tenho 22 anos e sou natural de Pernambuco. Concluí o Ensino Médio na EREM Beberibe, junto com o curso técnico em Informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no Unilasalle.
+
 Sou apaixonado por tecnologia e compartilho meus conhecimentos através do meu canal no YouTube — Luiz Augusto —, onde ensino como criar projetos web. Além disso, também estou presente no Instagram com o perfil Dev em Dev, onde publico conteúdos sobre programação e desenvolvimento.
+
 ---
+
 ### 📬 Contato
 
 <p align="left">
@@ -29,7 +32,9 @@ Sou apaixonado por tecnologia e compartilho meus conhecimentos através do meu c
     />
   </a>
 </p>
+
 ---
+
 ### 📊 Estatísticas
 
 <div align="center">
@@ -45,7 +50,9 @@ Sou apaixonado por tecnologia e compartilho meus conhecimentos através do meu c
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luiz&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </div>
+
 ---
+
 <img align="right" height="150" src="https://media0.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" alt="Coding gif" />
 
 ### 🛠️ Tecnologias e Habilidades
@@ -59,7 +66,9 @@ Sou apaixonado por tecnologia e compartilho meus conhecimentos através do meu c
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="PHP" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="Figma" />
 </div>
+
 ---
+
 ### 🐍 Snake Animation
 
 <picture>
