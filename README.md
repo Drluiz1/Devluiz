@@ -1,7 +1,5 @@
 ## Olá! Eu sou o Luiz Augusto, criado de conteúdo de programação e tecnologia! 🖐️
 
-<h2 align="left">Hello World, I'm ... Welcome to my profile!</h2>
-
 <table>
   <tr>
     <td>
@@ -40,6 +38,7 @@
 </div>
 
 ###
+
 
 <div> 
   <a href="luizaugustoo2019@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
