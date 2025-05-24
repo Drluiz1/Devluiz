@@ -1,4 +1,9 @@
-## Olá! Eu sou o Luiz Augusto, criador de conteúdo de programação e tecnologia! 🖐️
+👨🏻‍💻 Luiz Augusto
+Desenvolvedor Full Stack
+
+Olá! Me chamo Luiz Augusto, tenho 22 anos e sou natural de Pernambuco. Concluí o Ensino Médio na EREM Beberibe, junto com o curso técnico em Informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no Unilasalle.
+
+Sou apaixonado por tecnologia e compartilho meus conhecimentos através do meu canal no YouTube — Luiz Augusto —, onde ensino como criar projetos web. Além disso, também estou presente no Instagram com o perfil Dev em Dev, onde publico conteúdos sobre programação e desenvolvimento.
 
 ---
 
