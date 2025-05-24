@@ -1,6 +1,7 @@
 ## Olá! Eu sou o Luiz Augusto, criado de conteúdo de programação e tecnologia! 🖐️
 
 
+
 ### 📊 Estatísticas
 
 <p>
@@ -9,14 +10,14 @@
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github.com/Drluiz1" 
+    src="https://github-readme-stats.vercel.app/api?username=Luiz&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github.com/Drluiz1" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luiz&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
 </p>
