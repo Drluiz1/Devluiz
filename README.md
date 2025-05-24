@@ -7,29 +7,27 @@ Olá! Me chamo Luiz Augusto, tenho 22 anos e sou natural de Pernambuco. Concluí
 Sou apaixonado por tecnologia e compartilho meus conhecimentos através do meu canal no YouTube — Luiz Augusto —, onde ensino como criar projetos web. Além disso, também estou presente no Instagram com o perfil Dev em Dev, onde publico conteúdos sobre programação e desenvolvimento.
 ---
 <p align="left">
-    <a href="https://www.youtube.com/@luizrp2949?sub_confirmation=1" target="_blank">
-        <img 
-            alt="Inscreva-se no YouTube" 
-            title="Inscreva-se no meu canal" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
-        />
-    </a>
-    <div>
-  <a href="mailto:luizaugustoo2019@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  <a href="https://www.instagram.com/luiz_august9/" target="_blank">
+    <img 
+      src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" 
+      alt="Instagram" 
+    />
   </a>
-  
+
   <a href="https://www.linkedin.com/in/luiz-augusto2/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img 
+      src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
+      alt="LinkedIn" 
+    />
   </a>
-</div>
-  <a href="[https://www.linkedin.com/in/luiz-augusto2/](https://www.instagram.com/luiz_august9/)" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+
+  <a href="mailto:luizaugustoo2019@gmail.com">
+    <img 
+      src="https://img.shields.io/badge/Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" 
+      alt="Gmail" 
+    />
   </a>
-</div>
-
-
-    
+</p>
 
 ---
 
