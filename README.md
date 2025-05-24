@@ -1,5 +1,5 @@
 👨🏻‍💻 Luiz Augusto
-
+---
 Desenvolvedor Full Stack
 
 Olá! Me chamo Luiz Augusto, tenho 22 anos e sou natural de Pernambuco. Concluí o Ensino Médio na EREM Beberibe, junto com o curso técnico em Informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no Unilasalle.
