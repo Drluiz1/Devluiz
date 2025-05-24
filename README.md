@@ -2,8 +2,6 @@
 
 <h2 align="left">Hello World, I'm ... Welcome to my profile!</h2>
 
-### Não esqueça de mudar os links usando o seu user neles.
-
 <table>
   <tr>
     <td>
@@ -44,6 +42,6 @@
 ###
 
 <div> 
-  <a href="mailto:freelancejobslfn@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/laviniaferraz-v1ih/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="luizaugustoo2019@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/luiz-augusto2/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
