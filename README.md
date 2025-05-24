@@ -1,6 +1,5 @@
 ## Olá! Eu sou o Luiz Augusto, criado de conteúdo de programação e tecnologia! 🖐️
 
-<h2 align="left">Hello World, I'm ... Welcome to my profile!</h2>
 
 <table>
   <tr>
