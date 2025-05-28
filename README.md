@@ -35,26 +35,6 @@ Sou apaixonado por tecnologia e compartilho meus conhecimentos através do meu c
 
 ---
 
-### 📊 Estatísticas
-
-<div align="center">
-  <img 
-    alt="GitHub Stats" 
-    height="180" 
-    src="https://github-readme-stats.vercel.app/api?username=Luiz&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-  <img 
-    alt="Top Langs" 
-    height="180" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luiz&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-</div>
-
----
-
-<img align="right" height="150" src="https://media0.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" alt="Coding gif" />
-
 ### 🛠️ Tecnologias e Habilidades
 
 <div align="left">
