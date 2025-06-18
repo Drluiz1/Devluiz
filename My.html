@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Painel de Login</title>
+    <style>
+        :root {
+            --primary-color: #0d6efd;
+            --bg-color: #f5f7fa;
+            --card-bg: #ffffff;
+            --border-radius: 10px;
+            --shadow: 0 8px 16px rgba(0, 0, 0, 0.1);
+        }
+
+        body {
+            margin: 0;
+            padding: 0;
+            font-family: "Segoe UI", sans-serif;
+            background: url('https://images.unsplash.com/photo-1506765515384-028b60a970df') no-repeat center center fixed;
+            background-size: cover;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+        }
+
+        .login-wrapper {
+            background-color: rgba(255, 255, 255, 0.95);
+            padding: 40px;
+            border-radius: var(--border-radius);
+            box-shadow: var(--shadow);
+            width: 100%;
+            max-width: 400px;
+        }
+
+        .login-wrapper h2 {
+            text-align: center;
+            margin-bottom: 30px;
+            color: #333;
+        }
+
+        .form-group {
+            margin-bottom: 20px;
+        }
+
+        label {
+            display: block;
+            margin-bottom: 6px;
+            font-weight: 600;
+            color: #444;
+        }
+
+        input {
+            width: 100%;
+            padding: 12px;
+            border: 1px solid #ccc;
+            border-radius: var(--border-radius);
+            font-size: 16px;
+        }
+
+        button {
+            width: 100%;
+            padding: 12px;
+            background-color: var(--primary-color);
+            color: white;
+            font-size: 16px;
+            border: none;
+            border-radius: var(--border-radius);
+            cursor: pointer;
+            transition: background-color 0.3s ease;
+        }
+
+        button:hover {
+            background-color: #0b5ed7;
+        }
+
+        #msg {
+            margin-top: 20px;
+            text-align: center;
+            font-weight: 600;
+        }
+
+        @media (max-width: 500px) {
+            .login-wrapper {
+                margin: 0 20px;
+                padding: 30px 20px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="login-wrapper">
+        <h2>Entrar no Sistema</h2>
+        <div class="form-group">
+            <label for="email">E-mail:</label>
+            <input type="email" id="email" placeholder="Digite seu e-mail" required />
+        </div>
+        <div class="form-group">
+            <label for="password">Senha:</label>
+            <input type="password" id="password" placeholder="Digite sua senha" required />
+        </div>
+        <button onclick="login()">Entrar</button>
+        <div id="msg"></div>
+    </div>
+
+    <script>
+        function login() {
+            const email = document.getElementById("email").value;
+            const password = document.getElementById("password").value;
+
+            fetch(`/login?email=${encodeURIComponent(email)}&password=${encodeURIComponent(password)}`, {
+                method: 'POST'
+            })
+            .then(response => response.text())
+            .then(data => {
+                const msg = document.getElementById("msg");
+                if (data.startsWith("OK:")) {
+                    msg.style.color = "green";
+                    msg.textContent = `Bem-vindo, ${data.split(":")[1]}!`;
+                } else {
+                    msg.style.color = "red";
+                    msg.textContent = "Usuário ou senha inválidos.";
+                } 
+            })
+            .catch(error => {
+                const msg = document.getElementById("msg");
+                msg.style.color = "red";
+                msg.textContent = "Erro ao conectar com o servidor.";
+                console.error("Erro:", error);
+            });
+        }
+    </script>
+</body>
+</html>
